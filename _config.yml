@@ -8,9 +8,17 @@ url: "https://spacegirl13.github.io"
 future: true
 
 # Remote theme
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+
+# Minima theme options
+minima:
+  skin: dark
+  social_links:
+    - { platform: github, user_url: "https://github.com/open-coding-society" }
+    - { platform: x, user_url: "https://x.com/Open_Coding" }
+    - { platform: youtube, user_url: "https://www.youtube.com/@OpenCodingSociety" }
 
 # Header pages
 header_pages:
