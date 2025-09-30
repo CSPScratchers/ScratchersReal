@@ -7,8 +7,8 @@ baseurl: ""
 future: true
 remote_theme: jekyll/minima@d4d779a
 
-url: "https://spacegirl13.github.io"
-baseurl: "/ComputerCrashers_Lessons"
+url: "https://cspscratchers.github.io"
+baseurl: "/ScratchersReal"
 minima:
   skin: dark
   social_links:
