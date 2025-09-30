@@ -3,16 +3,12 @@ description: "Class of 2026"
 owner_name: Open Coding Society
 github_username: open-coding-society
 github_repo: "pages"
-baseurl: "/ComputerCrashers_Lessons"
-url: "https://spacegirl13.github.io"
+baseurl: ""
 future: true
-
-# Remote theme
 remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
 
-# Minima theme options
+url: "https://spacegirl13.github.io"
+baseurl: "/ComputerCrashers_Lessons"
 minima:
   skin: dark
   social_links:
@@ -20,7 +16,9 @@ minima:
     - { platform: x, user_url: "https://x.com/Open_Coding" }
     - { platform: youtube, user_url: "https://www.youtube.com/@OpenCodingSociety" }
 
-# Header pages
+plugins:
+  - jekyll-remote-theme
+
 header_pages:
   - navigation/section/csse.md
   - navigation/section/csp.md
