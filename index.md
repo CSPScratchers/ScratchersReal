@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: opencs
 title: Open Coding Society
 description: An Open Pathway to Computer Science
 sprite: /images/mario_animation.png
